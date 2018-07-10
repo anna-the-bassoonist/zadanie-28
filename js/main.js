@@ -1,9 +1,6 @@
-var text = "moja liczba";
-console.log(text);
-var number = 12;
-console.log(number);
+var dowolnaZmienna = 12;
 
-if (number > 10) {
+if (dowolnaZmienna > 10) {
     console.log("Podana liczba jest większa od 10");
 } else{
     console.log("Podana liczba nie jest większa od 10");
